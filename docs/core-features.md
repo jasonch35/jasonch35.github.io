@@ -24,7 +24,7 @@ Along with all the core features, we have introduced a few skill balancing. As d
 
     * ![Bash](images/sm_bash.gif) __Bash__ sp cost rescaled from 8/8/8/8/8/15/15/15/15/15 to 5 + 1 per skill level
     * ![Increase HP Recovery](images/sm_recovery.gif) __Increase HP Recovery__ regen ticks from 10 seconds to 6
-    * ![Bowling Bash](images/kn_bowlingbash.gif) __Bowling Bash__ removed gutter line mechanics
+    * ![Bowling Bash](images/kn_bowlingbash.gif) __Bowling Bash__ removed gutter line mechanics and damage numbers now does not overlap
     * ![Shield Boomerang](images/cr_shieldboomerang.gif) __Shield Boomerang__ damage rescaled from 100% + 30% per skill level to 110% + 30%. Removed bonus damage from shields' weight
 
 === "Mage"
@@ -124,7 +124,7 @@ Talk to the Adventurer's Guildmaster in Headquarter to unlock a class.
 
 We have unveiled a new way to help players adapt to the needs of each battle, offering powerful augmentations to their skill set.
 
-Select your Class Talents at Job Levels 10/20/30/40 to gain special, passive bonuses to your abilities. Each tier offers unique branches <em>(Branch 1 or Branch 2)</em>, and bypassed branches are not available at future levels. Each class has their own unique set of Talents to choose from.
+Select your Class Talents at Job Levels 15/25/35/45 to gain special, passive bonuses to your abilities. Each tier offers unique branches <em>(Branch 1 or Branch 2)</em>, and bypassed branches are not available at future levels. Each class has their own unique set of Talents to choose from.
 
 This feature will make unconventional builds more viable, such as Attack Priests and Sages, Blitzers, and Crit Knights.
 
